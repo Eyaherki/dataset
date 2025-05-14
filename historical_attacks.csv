@@ -1,0 +1,1001 @@
+AttackID,VendorID,AttackType,AttackDate,AttackVector,Outcome,Impact
+1,14,Malware,2022-11-19,Compromised Credentials,Financial Loss,Low
+2,51,Malware,2023-02-27,Exploit Kit,Service Disruption,High
+3,100,DDoS,2022-05-22,Exploit Kit,Data Breach,Low
+4,3,Malware,2023-04-23,Exploit Kit,Service Disruption,Low
+5,99,Phishing,2022-04-01,Compromised Credentials,Financial Loss,Medium
+6,19,Malware,2023-11-05,Compromised Credentials,Data Breach,Medium
+7,25,DDoS,2024-02-05,Compromised Credentials,Service Disruption,Low
+8,13,DDoS,2023-05-14,Compromised Credentials,Service Disruption,Low
+9,54,DDoS,2024-01-09,Compromised Credentials,Financial Loss,High
+10,24,Malware,2022-10-02,Exploit Kit,Service Disruption,Medium
+11,49,Malware,2022-06-07,Exploit Kit,Data Breach,Medium
+12,2,Malware,2023-07-08,Exploit Kit,Financial Loss,Medium
+13,45,Phishing,2023-03-04,Exploit Kit,Service Disruption,High
+14,73,DDoS,2024-02-17,Email,Financial Loss,High
+15,16,Malware,2022-11-30,Compromised Credentials,Service Disruption,Medium
+16,91,Phishing,2022-09-14,Email,Service Disruption,Low
+17,34,Phishing,2023-07-22,Email,Data Breach,Medium
+18,23,Phishing,2022-02-20,Compromised Credentials,Service Disruption,Medium
+19,46,Phishing,2023-10-19,Email,Financial Loss,High
+20,54,DDoS,2022-06-08,Exploit Kit,Service Disruption,Low
+21,63,Phishing,2023-04-09,Compromised Credentials,Data Breach,Low
+22,88,Malware,2022-07-22,Compromised Credentials,Data Breach,Medium
+23,78,DDoS,2023-04-23,Email,Data Breach,Low
+24,46,Malware,2023-11-15,Email,Financial Loss,High
+25,33,Phishing,2023-12-26,Compromised Credentials,Service Disruption,Medium
+26,68,DDoS,2023-11-15,Exploit Kit,Service Disruption,Medium
+27,81,Phishing,2022-04-27,Email,Data Breach,Low
+28,68,Malware,2022-05-20,Exploit Kit,Financial Loss,Medium
+29,15,DDoS,2023-10-11,Compromised Credentials,Data Breach,Medium
+30,40,DDoS,2022-06-27,Email,Data Breach,Medium
+31,12,Phishing,2023-09-22,Exploit Kit,Data Breach,High
+32,56,Malware,2023-02-20,Email,Data Breach,Low
+33,76,DDoS,2023-02-03,Compromised Credentials,Service Disruption,High
+34,14,Phishing,2024-01-13,Email,Financial Loss,Medium
+35,20,Malware,2023-03-06,Compromised Credentials,Financial Loss,Medium
+36,70,Phishing,2023-04-06,Email,Data Breach,Low
+37,4,Malware,2023-07-30,Email,Service Disruption,High
+38,1,Phishing,2022-02-22,Exploit Kit,Financial Loss,High
+39,78,Malware,2023-03-30,Exploit Kit,Financial Loss,Medium
+40,50,Malware,2022-03-08,Compromised Credentials,Data Breach,Low
+41,49,Phishing,2022-08-28,Exploit Kit,Financial Loss,High
+42,66,Phishing,2023-01-26,Exploit Kit,Financial Loss,Medium
+43,32,Phishing,2023-05-08,Email,Financial Loss,High
+44,52,Phishing,2022-11-05,Exploit Kit,Service Disruption,Medium
+45,11,Malware,2022-07-23,Email,Financial Loss,High
+46,62,Malware,2023-03-16,Exploit Kit,Financial Loss,Medium
+47,75,DDoS,2023-02-06,Exploit Kit,Financial Loss,Medium
+48,51,Phishing,2023-04-24,Compromised Credentials,Data Breach,Medium
+49,45,DDoS,2023-06-11,Email,Data Breach,High
+50,90,Phishing,2023-10-30,Compromised Credentials,Data Breach,Medium
+51,14,Malware,2023-08-31,Exploit Kit,Service Disruption,Medium
+52,72,Phishing,2023-02-20,Exploit Kit,Service Disruption,Low
+53,39,Malware,2023-12-20,Email,Financial Loss,Medium
+54,30,Malware,2024-02-10,Compromised Credentials,Financial Loss,Medium
+55,90,Phishing,2023-05-16,Compromised Credentials,Financial Loss,High
+56,7,Malware,2023-11-16,Compromised Credentials,Data Breach,Low
+57,51,DDoS,2022-04-11,Compromised Credentials,Financial Loss,Low
+58,56,Phishing,2022-04-12,Compromised Credentials,Data Breach,Medium
+59,28,Phishing,2022-10-18,Exploit Kit,Data Breach,Low
+60,36,Malware,2022-03-09,Email,Financial Loss,Low
+61,12,Malware,2023-02-27,Email,Financial Loss,Medium
+62,88,Phishing,2023-10-10,Email,Data Breach,Medium
+63,44,Phishing,2023-06-14,Email,Data Breach,Low
+64,25,Malware,2022-06-08,Exploit Kit,Financial Loss,High
+65,87,Malware,2022-05-12,Compromised Credentials,Service Disruption,Low
+66,99,Phishing,2023-05-11,Email,Service Disruption,High
+67,62,Phishing,2023-03-20,Compromised Credentials,Financial Loss,Medium
+68,39,Phishing,2023-07-20,Compromised Credentials,Financial Loss,Medium
+69,95,Phishing,2023-04-23,Exploit Kit,Financial Loss,Medium
+70,12,Malware,2022-09-07,Email,Service Disruption,High
+71,51,Phishing,2022-08-19,Exploit Kit,Financial Loss,Low
+72,67,Phishing,2023-06-24,Email,Financial Loss,Medium
+73,65,DDoS,2022-12-02,Compromised Credentials,Data Breach,Medium
+74,34,Malware,2022-10-27,Compromised Credentials,Service Disruption,Low
+75,39,Malware,2022-11-13,Compromised Credentials,Service Disruption,Medium
+76,47,DDoS,2024-01-01,Exploit Kit,Data Breach,Medium
+77,33,Malware,2022-04-26,Exploit Kit,Service Disruption,Low
+78,64,Malware,2022-03-08,Email,Data Breach,Low
+79,11,Phishing,2022-07-30,Compromised Credentials,Data Breach,High
+80,46,DDoS,2023-06-29,Email,Financial Loss,Low
+81,50,Phishing,2022-07-27,Email,Data Breach,High
+82,31,DDoS,2023-02-03,Compromised Credentials,Data Breach,Low
+83,62,DDoS,2023-08-13,Email,Financial Loss,Low
+84,17,DDoS,2023-08-24,Compromised Credentials,Financial Loss,Low
+85,41,Phishing,2022-07-20,Compromised Credentials,Service Disruption,High
+86,60,Phishing,2023-08-26,Exploit Kit,Data Breach,Low
+87,98,Phishing,2022-07-26,Exploit Kit,Data Breach,Medium
+88,5,Phishing,2023-09-05,Email,Data Breach,Medium
+89,99,Malware,2023-03-04,Exploit Kit,Data Breach,High
+90,49,Malware,2022-03-06,Compromised Credentials,Service Disruption,Low
+91,72,Malware,2023-11-26,Compromised Credentials,Financial Loss,Medium
+92,82,DDoS,2023-06-25,Email,Financial Loss,Medium
+93,51,DDoS,2022-03-16,Email,Service Disruption,High
+94,65,Malware,2022-07-24,Email,Service Disruption,Low
+95,42,Malware,2023-04-13,Exploit Kit,Financial Loss,High
+96,96,Malware,2024-01-21,Email,Data Breach,Medium
+97,18,Malware,2022-08-13,Compromised Credentials,Service Disruption,High
+98,99,Phishing,2022-06-24,Exploit Kit,Data Breach,Medium
+99,76,DDoS,2023-02-28,Exploit Kit,Financial Loss,Low
+100,98,Malware,2023-08-24,Exploit Kit,Service Disruption,Medium
+101,34,DDoS,2023-11-25,Exploit Kit,Service Disruption,Medium
+102,44,Phishing,2022-06-08,Compromised Credentials,Financial Loss,Low
+103,97,Phishing,2022-03-22,Email,Service Disruption,High
+104,47,Phishing,2022-11-14,Email,Service Disruption,Low
+105,88,DDoS,2023-12-10,Exploit Kit,Financial Loss,Medium
+106,8,DDoS,2022-05-31,Exploit Kit,Financial Loss,High
+107,54,DDoS,2022-07-21,Email,Financial Loss,High
+108,80,Phishing,2023-01-12,Compromised Credentials,Financial Loss,Medium
+109,89,DDoS,2022-11-16,Compromised Credentials,Financial Loss,Medium
+110,43,DDoS,2022-06-13,Email,Service Disruption,Low
+111,96,DDoS,2022-02-22,Compromised Credentials,Data Breach,Medium
+112,27,DDoS,2023-05-06,Email,Service Disruption,High
+113,5,DDoS,2022-07-30,Exploit Kit,Financial Loss,High
+114,57,Malware,2022-07-24,Compromised Credentials,Data Breach,Low
+115,52,Phishing,2022-08-15,Email,Service Disruption,High
+116,4,Malware,2023-05-20,Compromised Credentials,Service Disruption,High
+117,71,Phishing,2022-10-23,Email,Data Breach,High
+118,4,Phishing,2022-09-29,Compromised Credentials,Data Breach,High
+119,55,Malware,2022-08-23,Email,Data Breach,Medium
+120,85,Malware,2022-03-12,Compromised Credentials,Data Breach,Low
+121,39,DDoS,2023-08-03,Exploit Kit,Data Breach,High
+122,16,Malware,2022-12-24,Compromised Credentials,Data Breach,High
+123,4,DDoS,2024-01-15,Exploit Kit,Financial Loss,High
+124,64,DDoS,2023-04-23,Exploit Kit,Financial Loss,Medium
+125,33,Malware,2022-05-12,Compromised Credentials,Data Breach,Medium
+126,58,DDoS,2023-12-14,Email,Data Breach,High
+127,10,Phishing,2024-01-16,Exploit Kit,Financial Loss,High
+128,48,DDoS,2022-02-20,Compromised Credentials,Service Disruption,Low
+129,5,Phishing,2022-09-25,Exploit Kit,Data Breach,Low
+130,49,DDoS,2023-11-27,Compromised Credentials,Financial Loss,Low
+131,70,DDoS,2023-12-11,Email,Data Breach,High
+132,67,DDoS,2022-12-15,Exploit Kit,Data Breach,High
+133,27,Malware,2024-02-12,Exploit Kit,Service Disruption,High
+134,70,Phishing,2022-06-23,Compromised Credentials,Service Disruption,Medium
+135,11,Phishing,2022-10-19,Compromised Credentials,Service Disruption,High
+136,27,Phishing,2023-05-24,Exploit Kit,Data Breach,High
+137,97,Malware,2022-03-10,Exploit Kit,Service Disruption,Medium
+138,42,Malware,2022-02-25,Exploit Kit,Data Breach,High
+139,100,Malware,2022-12-20,Email,Data Breach,Medium
+140,63,Phishing,2023-10-21,Compromised Credentials,Service Disruption,Low
+141,23,Phishing,2023-09-29,Email,Financial Loss,Medium
+142,12,Phishing,2023-08-13,Compromised Credentials,Service Disruption,High
+143,96,Phishing,2024-02-08,Email,Data Breach,High
+144,70,Malware,2022-08-04,Email,Service Disruption,Medium
+145,57,Phishing,2022-03-01,Exploit Kit,Data Breach,Low
+146,73,Phishing,2022-06-19,Exploit Kit,Data Breach,Medium
+147,72,DDoS,2022-07-19,Exploit Kit,Service Disruption,Medium
+148,81,Phishing,2024-01-08,Email,Service Disruption,Medium
+149,25,Malware,2023-02-15,Compromised Credentials,Financial Loss,Low
+150,59,DDoS,2023-03-25,Compromised Credentials,Financial Loss,Low
+151,73,Phishing,2022-08-17,Exploit Kit,Data Breach,Low
+152,70,Phishing,2024-01-05,Exploit Kit,Financial Loss,Low
+153,70,Phishing,2023-11-20,Email,Data Breach,High
+154,4,Phishing,2023-06-08,Email,Financial Loss,Low
+155,97,DDoS,2023-11-05,Email,Financial Loss,Medium
+156,71,DDoS,2023-03-14,Email,Service Disruption,High
+157,13,DDoS,2023-02-18,Email,Service Disruption,Medium
+158,23,Phishing,2023-01-03,Email,Service Disruption,Medium
+159,90,Phishing,2022-03-19,Compromised Credentials,Financial Loss,High
+160,86,Malware,2022-06-20,Email,Financial Loss,High
+161,9,Malware,2023-09-20,Compromised Credentials,Service Disruption,High
+162,22,Phishing,2022-06-10,Compromised Credentials,Financial Loss,Medium
+163,59,Phishing,2023-09-25,Exploit Kit,Financial Loss,Medium
+164,65,DDoS,2023-01-23,Compromised Credentials,Financial Loss,High
+165,5,DDoS,2022-04-18,Exploit Kit,Data Breach,Low
+166,14,Phishing,2022-12-13,Compromised Credentials,Data Breach,Low
+167,54,DDoS,2023-12-28,Compromised Credentials,Data Breach,High
+168,22,Phishing,2023-10-22,Exploit Kit,Financial Loss,Medium
+169,82,Phishing,2023-06-16,Exploit Kit,Financial Loss,Medium
+170,52,Phishing,2024-01-19,Exploit Kit,Data Breach,Low
+171,55,Phishing,2022-11-27,Compromised Credentials,Service Disruption,Low
+172,91,DDoS,2022-09-19,Email,Service Disruption,High
+173,71,DDoS,2022-04-29,Exploit Kit,Financial Loss,Low
+174,8,DDoS,2023-09-17,Exploit Kit,Financial Loss,Low
+175,91,Phishing,2022-08-18,Email,Service Disruption,Medium
+176,53,Malware,2024-01-28,Email,Data Breach,High
+177,87,DDoS,2023-06-11,Email,Data Breach,High
+178,85,Malware,2023-10-12,Exploit Kit,Data Breach,High
+179,62,DDoS,2023-01-25,Exploit Kit,Data Breach,High
+180,44,Phishing,2022-06-03,Exploit Kit,Data Breach,High
+181,76,Phishing,2023-05-16,Exploit Kit,Data Breach,Low
+182,77,Phishing,2024-02-09,Compromised Credentials,Service Disruption,High
+183,39,DDoS,2022-02-22,Exploit Kit,Financial Loss,Medium
+184,6,DDoS,2024-01-14,Exploit Kit,Data Breach,Low
+185,67,DDoS,2022-05-18,Exploit Kit,Financial Loss,Medium
+186,28,Malware,2022-08-31,Compromised Credentials,Service Disruption,Medium
+187,54,DDoS,2024-01-18,Email,Service Disruption,Medium
+188,78,DDoS,2022-11-11,Compromised Credentials,Financial Loss,Low
+189,2,DDoS,2022-12-19,Email,Financial Loss,Low
+190,93,DDoS,2023-04-05,Email,Data Breach,High
+191,66,Malware,2023-06-27,Email,Financial Loss,High
+192,14,Malware,2022-07-30,Compromised Credentials,Service Disruption,High
+193,81,DDoS,2023-06-10,Email,Service Disruption,Low
+194,91,Malware,2022-11-02,Exploit Kit,Data Breach,Medium
+195,12,DDoS,2024-02-04,Email,Data Breach,Medium
+196,94,DDoS,2023-02-01,Compromised Credentials,Financial Loss,High
+197,30,DDoS,2023-01-10,Exploit Kit,Data Breach,Medium
+198,56,DDoS,2023-08-19,Email,Financial Loss,Medium
+199,44,Phishing,2022-10-07,Compromised Credentials,Financial Loss,Medium
+200,44,Malware,2023-06-01,Exploit Kit,Data Breach,Medium
+201,5,DDoS,2022-09-03,Exploit Kit,Data Breach,High
+202,15,Malware,2022-08-17,Exploit Kit,Financial Loss,Medium
+203,21,DDoS,2023-10-31,Exploit Kit,Service Disruption,High
+204,44,DDoS,2022-08-10,Compromised Credentials,Service Disruption,High
+205,30,DDoS,2023-07-27,Compromised Credentials,Service Disruption,High
+206,38,Malware,2022-04-23,Compromised Credentials,Service Disruption,Medium
+207,83,Phishing,2022-12-08,Email,Service Disruption,High
+208,69,Phishing,2023-10-23,Email,Data Breach,High
+209,4,Phishing,2023-01-11,Exploit Kit,Data Breach,Low
+210,53,DDoS,2023-11-07,Exploit Kit,Financial Loss,Medium
+211,95,Phishing,2023-04-30,Email,Data Breach,Medium
+212,93,DDoS,2023-04-14,Compromised Credentials,Financial Loss,Medium
+213,20,Malware,2023-09-14,Email,Financial Loss,Medium
+214,40,DDoS,2022-08-22,Email,Data Breach,Medium
+215,22,Malware,2023-05-16,Compromised Credentials,Financial Loss,High
+216,28,DDoS,2023-12-20,Compromised Credentials,Data Breach,Low
+217,69,Phishing,2024-02-10,Exploit Kit,Service Disruption,Low
+218,43,DDoS,2023-12-18,Exploit Kit,Financial Loss,Low
+219,10,Malware,2024-02-02,Exploit Kit,Data Breach,Low
+220,69,Phishing,2022-05-08,Email,Service Disruption,Medium
+221,18,DDoS,2023-02-04,Compromised Credentials,Service Disruption,Medium
+222,9,DDoS,2022-04-26,Compromised Credentials,Service Disruption,High
+223,34,DDoS,2022-10-17,Email,Service Disruption,Low
+224,42,Phishing,2023-10-23,Exploit Kit,Service Disruption,Low
+225,53,Phishing,2022-03-23,Compromised Credentials,Data Breach,Medium
+226,85,Malware,2022-03-13,Exploit Kit,Data Breach,Low
+227,86,Malware,2022-08-07,Compromised Credentials,Service Disruption,Low
+228,86,Phishing,2023-02-12,Email,Service Disruption,Low
+229,19,Malware,2024-01-10,Email,Data Breach,High
+230,100,Malware,2023-08-18,Exploit Kit,Financial Loss,Low
+231,33,Phishing,2024-02-11,Email,Financial Loss,Medium
+232,100,Malware,2023-09-22,Exploit Kit,Data Breach,High
+233,17,Phishing,2023-01-15,Exploit Kit,Financial Loss,High
+234,2,Phishing,2023-12-15,Email,Data Breach,Medium
+235,40,DDoS,2023-09-30,Exploit Kit,Service Disruption,Medium
+236,10,DDoS,2022-09-26,Exploit Kit,Data Breach,High
+237,60,Malware,2022-03-05,Exploit Kit,Service Disruption,High
+238,26,DDoS,2023-01-05,Compromised Credentials,Data Breach,Medium
+239,73,Phishing,2023-01-24,Exploit Kit,Data Breach,Medium
+240,55,Malware,2023-02-22,Compromised Credentials,Data Breach,High
+241,11,Phishing,2022-10-13,Email,Financial Loss,High
+242,24,DDoS,2022-10-29,Compromised Credentials,Service Disruption,Medium
+243,5,DDoS,2022-04-14,Exploit Kit,Data Breach,Medium
+244,30,Malware,2022-08-28,Email,Data Breach,Medium
+245,7,Malware,2022-03-10,Compromised Credentials,Service Disruption,Low
+246,5,Phishing,2023-12-27,Email,Data Breach,High
+247,81,DDoS,2022-11-27,Exploit Kit,Data Breach,Low
+248,80,Malware,2023-06-29,Exploit Kit,Financial Loss,Medium
+249,4,Malware,2022-03-14,Exploit Kit,Service Disruption,Low
+250,21,Malware,2024-01-19,Exploit Kit,Service Disruption,High
+251,31,Phishing,2023-04-17,Compromised Credentials,Data Breach,Medium
+252,98,DDoS,2023-05-07,Exploit Kit,Data Breach,High
+253,45,Malware,2024-01-07,Email,Financial Loss,Medium
+254,49,DDoS,2023-08-14,Exploit Kit,Financial Loss,High
+255,50,Malware,2022-03-16,Exploit Kit,Service Disruption,High
+256,55,Phishing,2022-05-06,Exploit Kit,Service Disruption,Medium
+257,54,Malware,2023-09-06,Email,Financial Loss,Medium
+258,95,Malware,2023-10-17,Email,Data Breach,Medium
+259,9,Phishing,2022-08-25,Exploit Kit,Service Disruption,Medium
+260,9,Phishing,2022-08-13,Exploit Kit,Service Disruption,Medium
+261,22,Phishing,2022-07-14,Exploit Kit,Service Disruption,High
+262,25,Phishing,2023-08-26,Email,Data Breach,Low
+263,68,DDoS,2022-08-09,Compromised Credentials,Service Disruption,High
+264,67,Malware,2023-11-03,Compromised Credentials,Financial Loss,Medium
+265,15,Phishing,2024-02-06,Compromised Credentials,Data Breach,High
+266,67,Malware,2022-05-27,Exploit Kit,Data Breach,Low
+267,51,Phishing,2023-04-01,Exploit Kit,Data Breach,Low
+268,99,Phishing,2023-08-08,Compromised Credentials,Financial Loss,Medium
+269,87,DDoS,2023-01-14,Email,Service Disruption,Medium
+270,55,DDoS,2022-11-26,Email,Financial Loss,High
+271,98,Phishing,2024-01-21,Email,Financial Loss,Medium
+272,1,DDoS,2023-09-24,Email,Data Breach,Medium
+273,21,DDoS,2023-10-03,Email,Data Breach,Medium
+274,88,Phishing,2023-01-07,Exploit Kit,Financial Loss,Medium
+275,83,DDoS,2023-07-18,Exploit Kit,Data Breach,Low
+276,95,Malware,2022-05-03,Exploit Kit,Service Disruption,High
+277,69,DDoS,2024-02-05,Email,Financial Loss,Medium
+278,34,Malware,2023-03-04,Exploit Kit,Service Disruption,Low
+279,95,Phishing,2024-02-02,Compromised Credentials,Service Disruption,Medium
+280,65,Malware,2022-03-12,Compromised Credentials,Financial Loss,Low
+281,48,Malware,2022-06-23,Email,Financial Loss,Medium
+282,19,DDoS,2022-11-26,Compromised Credentials,Financial Loss,Medium
+283,45,Phishing,2022-09-27,Email,Financial Loss,High
+284,29,Malware,2022-03-18,Compromised Credentials,Financial Loss,High
+285,84,Malware,2022-03-10,Exploit Kit,Service Disruption,Medium
+286,44,DDoS,2022-04-20,Exploit Kit,Financial Loss,Medium
+287,97,Malware,2022-12-01,Email,Financial Loss,Low
+288,43,Phishing,2023-01-01,Exploit Kit,Financial Loss,Low
+289,2,Phishing,2023-01-02,Email,Financial Loss,Low
+290,84,Malware,2023-05-04,Exploit Kit,Financial Loss,Medium
+291,60,DDoS,2022-02-24,Compromised Credentials,Financial Loss,High
+292,64,Phishing,2023-04-28,Email,Data Breach,Medium
+293,84,Phishing,2023-11-22,Compromised Credentials,Service Disruption,Low
+294,35,Malware,2023-01-07,Compromised Credentials,Service Disruption,Low
+295,35,Phishing,2022-12-07,Exploit Kit,Service Disruption,Low
+296,59,Phishing,2022-05-07,Email,Service Disruption,Low
+297,17,Malware,2023-03-08,Exploit Kit,Data Breach,Medium
+298,91,DDoS,2022-11-29,Exploit Kit,Data Breach,Medium
+299,19,DDoS,2022-10-15,Exploit Kit,Service Disruption,Medium
+300,31,DDoS,2022-03-16,Compromised Credentials,Service Disruption,High
+301,21,Malware,2022-09-03,Email,Financial Loss,Low
+302,67,Malware,2022-05-17,Exploit Kit,Financial Loss,High
+303,42,Malware,2023-01-28,Compromised Credentials,Financial Loss,Medium
+304,42,Malware,2022-05-15,Exploit Kit,Financial Loss,High
+305,71,DDoS,2022-05-07,Compromised Credentials,Service Disruption,High
+306,19,Malware,2022-03-11,Compromised Credentials,Data Breach,High
+307,60,Malware,2023-08-06,Exploit Kit,Financial Loss,High
+308,39,DDoS,2022-06-01,Email,Data Breach,High
+309,33,Malware,2023-03-22,Email,Financial Loss,High
+310,37,DDoS,2023-07-27,Compromised Credentials,Service Disruption,High
+311,92,Phishing,2023-12-06,Compromised Credentials,Service Disruption,Low
+312,56,Phishing,2022-11-16,Compromised Credentials,Data Breach,Low
+313,97,DDoS,2022-03-12,Exploit Kit,Data Breach,Low
+314,34,Phishing,2022-04-08,Exploit Kit,Service Disruption,High
+315,42,Malware,2023-09-24,Compromised Credentials,Service Disruption,Low
+316,29,Malware,2022-07-31,Compromised Credentials,Service Disruption,Medium
+317,23,Malware,2022-08-19,Exploit Kit,Service Disruption,Low
+318,77,Malware,2022-12-11,Compromised Credentials,Service Disruption,Low
+319,49,Phishing,2022-07-11,Compromised Credentials,Financial Loss,High
+320,18,DDoS,2022-07-10,Email,Financial Loss,Low
+321,72,DDoS,2023-11-25,Email,Financial Loss,High
+322,99,Phishing,2022-03-31,Exploit Kit,Financial Loss,High
+323,93,Malware,2022-09-29,Email,Service Disruption,Low
+324,67,Malware,2023-04-22,Compromised Credentials,Service Disruption,High
+325,17,Malware,2023-10-28,Compromised Credentials,Financial Loss,Low
+326,85,Phishing,2022-12-24,Compromised Credentials,Service Disruption,Low
+327,52,Phishing,2022-07-04,Compromised Credentials,Financial Loss,Medium
+328,10,Malware,2022-08-17,Compromised Credentials,Financial Loss,High
+329,87,DDoS,2023-06-06,Exploit Kit,Service Disruption,High
+330,66,Malware,2022-04-03,Compromised Credentials,Data Breach,High
+331,8,DDoS,2022-04-28,Exploit Kit,Financial Loss,High
+332,62,Malware,2023-01-17,Exploit Kit,Service Disruption,High
+333,45,Malware,2023-04-24,Email,Service Disruption,Low
+334,54,Malware,2022-05-13,Compromised Credentials,Financial Loss,High
+335,48,DDoS,2022-03-25,Exploit Kit,Service Disruption,Low
+336,17,Malware,2022-08-03,Compromised Credentials,Financial Loss,Low
+337,69,DDoS,2023-04-16,Email,Financial Loss,Medium
+338,6,Malware,2024-01-13,Compromised Credentials,Data Breach,High
+339,5,Malware,2023-08-20,Exploit Kit,Service Disruption,High
+340,10,Phishing,2023-11-29,Email,Service Disruption,High
+341,27,DDoS,2022-10-14,Email,Service Disruption,High
+342,22,DDoS,2022-04-15,Exploit Kit,Data Breach,High
+343,100,Malware,2023-01-19,Email,Data Breach,Low
+344,78,Malware,2022-03-22,Email,Financial Loss,High
+345,61,Phishing,2023-04-07,Email,Service Disruption,Medium
+346,13,Malware,2023-10-18,Compromised Credentials,Service Disruption,High
+347,92,DDoS,2023-09-20,Exploit Kit,Data Breach,Medium
+348,8,Phishing,2023-08-09,Compromised Credentials,Financial Loss,High
+349,46,DDoS,2023-02-16,Exploit Kit,Data Breach,Medium
+350,35,Phishing,2023-09-27,Exploit Kit,Service Disruption,Low
+351,86,DDoS,2022-07-02,Exploit Kit,Service Disruption,High
+352,35,Phishing,2023-02-19,Email,Service Disruption,Low
+353,35,DDoS,2022-10-15,Exploit Kit,Service Disruption,Low
+354,3,Phishing,2023-03-24,Email,Financial Loss,High
+355,38,Phishing,2023-06-24,Email,Financial Loss,Low
+356,40,DDoS,2024-02-06,Email,Financial Loss,Medium
+357,57,DDoS,2023-12-23,Exploit Kit,Data Breach,Low
+358,67,DDoS,2022-09-05,Compromised Credentials,Data Breach,Medium
+359,44,Malware,2023-12-05,Exploit Kit,Service Disruption,Low
+360,59,Phishing,2022-11-18,Compromised Credentials,Service Disruption,Low
+361,43,DDoS,2022-05-25,Compromised Credentials,Data Breach,Medium
+362,69,Malware,2022-12-01,Compromised Credentials,Data Breach,Low
+363,73,Phishing,2023-08-28,Compromised Credentials,Service Disruption,Low
+364,10,Malware,2022-02-24,Email,Service Disruption,High
+365,9,Phishing,2023-12-22,Exploit Kit,Service Disruption,Low
+366,17,DDoS,2022-11-08,Exploit Kit,Data Breach,Low
+367,65,Malware,2022-06-08,Email,Service Disruption,Medium
+368,18,Malware,2023-02-19,Exploit Kit,Service Disruption,High
+369,5,DDoS,2023-03-14,Email,Data Breach,High
+370,74,DDoS,2023-06-02,Exploit Kit,Service Disruption,High
+371,7,Malware,2023-08-19,Compromised Credentials,Financial Loss,Medium
+372,3,Malware,2022-08-25,Compromised Credentials,Data Breach,Medium
+373,9,DDoS,2023-12-19,Email,Data Breach,Medium
+374,13,Malware,2023-06-02,Exploit Kit,Data Breach,Medium
+375,54,Phishing,2023-08-26,Email,Data Breach,Medium
+376,66,Phishing,2023-05-18,Compromised Credentials,Data Breach,Low
+377,82,Malware,2022-07-20,Compromised Credentials,Data Breach,High
+378,83,Phishing,2023-04-03,Exploit Kit,Service Disruption,Medium
+379,98,Malware,2023-12-03,Email,Financial Loss,Low
+380,45,DDoS,2022-03-27,Compromised Credentials,Financial Loss,Low
+381,1,Phishing,2022-05-14,Exploit Kit,Data Breach,Low
+382,97,Phishing,2022-11-30,Compromised Credentials,Financial Loss,High
+383,65,Phishing,2022-03-21,Compromised Credentials,Service Disruption,High
+384,52,DDoS,2022-10-06,Exploit Kit,Data Breach,Medium
+385,86,Malware,2022-11-25,Exploit Kit,Financial Loss,Low
+386,53,Malware,2023-12-21,Compromised Credentials,Financial Loss,High
+387,62,Malware,2023-07-06,Exploit Kit,Financial Loss,High
+388,100,Malware,2023-11-03,Email,Data Breach,High
+389,20,Phishing,2022-12-17,Email,Data Breach,Low
+390,99,DDoS,2023-10-03,Exploit Kit,Data Breach,High
+391,69,DDoS,2022-02-19,Exploit Kit,Financial Loss,High
+392,91,DDoS,2023-03-15,Compromised Credentials,Financial Loss,Medium
+393,73,Phishing,2023-02-06,Email,Service Disruption,Low
+394,5,DDoS,2024-02-16,Exploit Kit,Service Disruption,High
+395,16,Phishing,2023-12-12,Exploit Kit,Financial Loss,High
+396,17,Malware,2023-02-12,Exploit Kit,Financial Loss,Medium
+397,47,Malware,2023-08-20,Compromised Credentials,Financial Loss,Medium
+398,82,Phishing,2023-02-22,Exploit Kit,Data Breach,Medium
+399,36,DDoS,2023-04-04,Email,Service Disruption,Medium
+400,41,Malware,2023-08-02,Exploit Kit,Service Disruption,Medium
+401,17,Phishing,2022-06-01,Exploit Kit,Service Disruption,Low
+402,3,Malware,2023-12-24,Email,Service Disruption,Medium
+403,3,DDoS,2023-11-26,Exploit Kit,Data Breach,High
+404,61,Phishing,2023-12-31,Compromised Credentials,Financial Loss,High
+405,75,Phishing,2022-09-11,Email,Service Disruption,Low
+406,13,Malware,2023-03-23,Exploit Kit,Data Breach,Medium
+407,64,Malware,2022-04-24,Email,Financial Loss,Medium
+408,85,Phishing,2022-03-15,Exploit Kit,Service Disruption,Medium
+409,39,DDoS,2022-05-06,Email,Financial Loss,High
+410,64,Phishing,2022-03-09,Compromised Credentials,Service Disruption,High
+411,19,Malware,2023-07-26,Compromised Credentials,Data Breach,High
+412,75,Phishing,2023-11-02,Exploit Kit,Service Disruption,Medium
+413,16,Malware,2023-11-01,Email,Data Breach,Low
+414,55,Malware,2022-05-31,Email,Service Disruption,Low
+415,72,Phishing,2022-11-28,Compromised Credentials,Service Disruption,Low
+416,44,Malware,2023-11-03,Exploit Kit,Data Breach,High
+417,46,Phishing,2022-12-07,Email,Data Breach,High
+418,74,Phishing,2022-08-04,Email,Financial Loss,Medium
+419,19,DDoS,2024-01-18,Email,Data Breach,Medium
+420,90,Phishing,2023-12-09,Exploit Kit,Financial Loss,Low
+421,87,Phishing,2022-09-16,Compromised Credentials,Service Disruption,High
+422,98,Phishing,2023-03-27,Email,Financial Loss,Low
+423,50,Malware,2023-01-12,Email,Financial Loss,Low
+424,46,Phishing,2023-03-25,Compromised Credentials,Service Disruption,High
+425,78,DDoS,2022-04-30,Compromised Credentials,Data Breach,Medium
+426,42,Phishing,2023-01-16,Compromised Credentials,Service Disruption,High
+427,52,Phishing,2024-02-11,Exploit Kit,Service Disruption,High
+428,1,Phishing,2022-11-19,Email,Service Disruption,Medium
+429,24,Phishing,2023-11-25,Exploit Kit,Data Breach,Low
+430,54,Malware,2022-09-27,Exploit Kit,Service Disruption,High
+431,11,DDoS,2023-04-17,Compromised Credentials,Financial Loss,Low
+432,47,DDoS,2023-05-02,Exploit Kit,Financial Loss,High
+433,81,DDoS,2022-08-14,Exploit Kit,Service Disruption,High
+434,100,Phishing,2023-11-14,Exploit Kit,Financial Loss,High
+435,31,Malware,2022-11-19,Email,Service Disruption,Medium
+436,48,Phishing,2023-03-20,Exploit Kit,Financial Loss,Low
+437,67,Malware,2023-03-07,Email,Data Breach,Low
+438,44,Malware,2024-01-01,Exploit Kit,Financial Loss,Medium
+439,98,DDoS,2022-03-15,Exploit Kit,Financial Loss,Medium
+440,73,DDoS,2022-05-29,Exploit Kit,Financial Loss,High
+441,5,Phishing,2022-10-28,Email,Data Breach,Medium
+442,22,Phishing,2022-12-15,Email,Data Breach,Low
+443,27,Phishing,2023-09-11,Email,Data Breach,Medium
+444,73,Malware,2022-12-25,Email,Financial Loss,High
+445,22,DDoS,2023-11-16,Exploit Kit,Financial Loss,High
+446,14,DDoS,2023-11-26,Compromised Credentials,Service Disruption,Low
+447,95,DDoS,2022-05-27,Compromised Credentials,Financial Loss,Medium
+448,82,DDoS,2022-05-29,Email,Data Breach,Low
+449,45,Phishing,2023-07-06,Email,Service Disruption,Medium
+450,92,DDoS,2024-01-04,Email,Service Disruption,Low
+451,33,Phishing,2023-12-18,Compromised Credentials,Financial Loss,High
+452,88,Phishing,2023-05-22,Exploit Kit,Service Disruption,Low
+453,92,Phishing,2022-08-18,Exploit Kit,Data Breach,Medium
+454,46,Malware,2023-04-18,Exploit Kit,Data Breach,High
+455,60,DDoS,2022-07-07,Exploit Kit,Financial Loss,High
+456,55,Phishing,2022-04-05,Email,Financial Loss,Medium
+457,90,DDoS,2022-12-30,Exploit Kit,Service Disruption,Low
+458,83,Malware,2022-08-02,Email,Data Breach,Medium
+459,31,Phishing,2022-06-16,Email,Data Breach,Medium
+460,47,Malware,2023-10-19,Exploit Kit,Data Breach,Medium
+461,66,DDoS,2023-04-15,Compromised Credentials,Service Disruption,Low
+462,30,DDoS,2023-05-06,Email,Data Breach,Low
+463,13,DDoS,2022-05-31,Compromised Credentials,Data Breach,Low
+464,3,Phishing,2023-07-10,Compromised Credentials,Service Disruption,Low
+465,72,DDoS,2023-05-27,Exploit Kit,Data Breach,Medium
+466,21,DDoS,2023-08-18,Compromised Credentials,Service Disruption,Medium
+467,81,DDoS,2023-09-19,Exploit Kit,Service Disruption,Medium
+468,64,Phishing,2022-07-07,Compromised Credentials,Data Breach,High
+469,13,Malware,2022-07-13,Email,Service Disruption,Low
+470,61,Phishing,2023-06-02,Compromised Credentials,Data Breach,High
+471,53,Phishing,2024-01-20,Compromised Credentials,Service Disruption,Medium
+472,27,Malware,2023-12-15,Email,Data Breach,High
+473,43,DDoS,2023-12-04,Email,Financial Loss,Medium
+474,50,Malware,2022-10-11,Exploit Kit,Financial Loss,High
+475,51,DDoS,2024-01-10,Exploit Kit,Financial Loss,Medium
+476,86,DDoS,2023-01-23,Email,Data Breach,High
+477,4,DDoS,2023-11-25,Compromised Credentials,Financial Loss,High
+478,23,Phishing,2022-09-27,Email,Service Disruption,Medium
+479,56,Phishing,2023-06-05,Compromised Credentials,Financial Loss,Medium
+480,62,Phishing,2022-11-14,Email,Service Disruption,Low
+481,97,Malware,2023-04-05,Exploit Kit,Financial Loss,Low
+482,50,Malware,2024-01-26,Compromised Credentials,Service Disruption,High
+483,13,DDoS,2022-12-18,Email,Data Breach,High
+484,19,DDoS,2023-06-28,Email,Financial Loss,Low
+485,1,Malware,2023-02-03,Compromised Credentials,Financial Loss,Low
+486,33,Malware,2023-05-25,Exploit Kit,Service Disruption,Medium
+487,7,Malware,2023-03-12,Exploit Kit,Financial Loss,Medium
+488,31,DDoS,2023-02-20,Email,Service Disruption,High
+489,5,DDoS,2022-07-29,Email,Financial Loss,High
+490,44,DDoS,2022-07-11,Email,Service Disruption,Medium
+491,33,DDoS,2022-06-11,Compromised Credentials,Data Breach,High
+492,17,Phishing,2022-10-13,Compromised Credentials,Service Disruption,Medium
+493,41,DDoS,2023-07-18,Email,Service Disruption,Medium
+494,60,DDoS,2023-10-31,Email,Data Breach,High
+495,31,DDoS,2022-02-27,Exploit Kit,Service Disruption,Medium
+496,26,Phishing,2023-05-07,Compromised Credentials,Service Disruption,Low
+497,6,DDoS,2023-01-25,Exploit Kit,Service Disruption,High
+498,48,DDoS,2022-10-25,Email,Financial Loss,High
+499,19,Malware,2023-11-04,Email,Service Disruption,High
+500,95,Phishing,2022-05-11,Exploit Kit,Data Breach,High
+501,96,Malware,2023-08-11,Email,Service Disruption,High
+502,82,Phishing,2023-08-15,Email,Financial Loss,Medium
+503,48,Phishing,2024-01-31,Email,Service Disruption,High
+504,45,Phishing,2022-06-12,Compromised Credentials,Financial Loss,High
+505,96,DDoS,2023-09-10,Email,Financial Loss,Medium
+506,17,Malware,2022-04-20,Email,Financial Loss,High
+507,77,Phishing,2022-10-07,Compromised Credentials,Service Disruption,High
+508,29,Phishing,2022-03-15,Email,Financial Loss,Medium
+509,32,DDoS,2024-02-11,Compromised Credentials,Data Breach,Medium
+510,54,Phishing,2022-07-10,Email,Financial Loss,Medium
+511,27,Malware,2023-12-30,Email,Service Disruption,High
+512,20,Phishing,2022-05-11,Email,Data Breach,High
+513,84,Malware,2022-10-03,Exploit Kit,Financial Loss,High
+514,33,Phishing,2023-05-19,Compromised Credentials,Data Breach,Medium
+515,54,Phishing,2022-06-19,Compromised Credentials,Service Disruption,Medium
+516,97,DDoS,2022-08-14,Compromised Credentials,Financial Loss,High
+517,65,DDoS,2022-02-21,Exploit Kit,Service Disruption,Medium
+518,32,Phishing,2022-04-26,Email,Service Disruption,High
+519,91,Malware,2023-06-24,Compromised Credentials,Financial Loss,High
+520,84,Phishing,2022-08-03,Compromised Credentials,Financial Loss,Low
+521,3,Malware,2022-12-11,Exploit Kit,Service Disruption,Low
+522,96,Phishing,2023-08-09,Email,Service Disruption,High
+523,26,DDoS,2023-06-07,Compromised Credentials,Data Breach,High
+524,22,Malware,2023-08-10,Email,Service Disruption,Medium
+525,12,DDoS,2023-03-22,Exploit Kit,Financial Loss,Medium
+526,37,DDoS,2022-12-18,Exploit Kit,Financial Loss,Medium
+527,21,Malware,2023-07-08,Exploit Kit,Financial Loss,Medium
+528,80,DDoS,2022-05-16,Compromised Credentials,Data Breach,Low
+529,15,DDoS,2022-12-05,Email,Service Disruption,Medium
+530,50,DDoS,2024-01-15,Email,Financial Loss,High
+531,60,Phishing,2023-08-24,Compromised Credentials,Data Breach,Low
+532,93,Phishing,2022-11-02,Email,Data Breach,Medium
+533,99,DDoS,2022-03-22,Exploit Kit,Service Disruption,High
+534,29,Malware,2022-08-19,Email,Service Disruption,Medium
+535,15,Phishing,2022-06-05,Compromised Credentials,Data Breach,Low
+536,45,DDoS,2022-03-05,Compromised Credentials,Service Disruption,High
+537,19,Malware,2023-07-14,Exploit Kit,Service Disruption,High
+538,42,Malware,2023-06-12,Compromised Credentials,Financial Loss,High
+539,58,Phishing,2022-12-22,Compromised Credentials,Service Disruption,Medium
+540,4,Malware,2023-11-15,Email,Data Breach,Low
+541,74,Phishing,2022-04-10,Email,Financial Loss,High
+542,91,DDoS,2022-12-04,Exploit Kit,Financial Loss,High
+543,33,Malware,2023-11-11,Exploit Kit,Service Disruption,Low
+544,70,Malware,2022-12-03,Compromised Credentials,Financial Loss,Medium
+545,84,DDoS,2022-08-12,Exploit Kit,Financial Loss,High
+546,5,Phishing,2022-10-01,Exploit Kit,Financial Loss,High
+547,7,DDoS,2023-05-07,Compromised Credentials,Financial Loss,High
+548,21,DDoS,2023-09-19,Compromised Credentials,Financial Loss,High
+549,85,Phishing,2023-11-02,Email,Service Disruption,High
+550,45,Malware,2022-07-14,Compromised Credentials,Data Breach,Medium
+551,84,Malware,2022-12-12,Compromised Credentials,Data Breach,Low
+552,97,DDoS,2023-03-03,Exploit Kit,Data Breach,Low
+553,98,DDoS,2023-06-14,Email,Financial Loss,Medium
+554,38,Malware,2023-10-01,Email,Financial Loss,High
+555,87,DDoS,2022-08-27,Exploit Kit,Service Disruption,Medium
+556,55,Malware,2023-08-13,Compromised Credentials,Service Disruption,Medium
+557,86,Malware,2023-06-18,Compromised Credentials,Financial Loss,Medium
+558,83,Malware,2022-11-11,Compromised Credentials,Service Disruption,Medium
+559,59,Malware,2023-04-25,Email,Financial Loss,Low
+560,14,DDoS,2022-04-01,Compromised Credentials,Financial Loss,Medium
+561,64,DDoS,2024-02-09,Exploit Kit,Service Disruption,High
+562,44,Phishing,2023-09-26,Exploit Kit,Data Breach,Low
+563,26,DDoS,2023-01-08,Exploit Kit,Service Disruption,High
+564,55,Phishing,2023-03-28,Compromised Credentials,Data Breach,Medium
+565,43,Phishing,2022-09-06,Exploit Kit,Data Breach,High
+566,4,Phishing,2023-04-17,Compromised Credentials,Financial Loss,High
+567,88,Malware,2022-07-05,Exploit Kit,Financial Loss,High
+568,58,DDoS,2023-12-07,Email,Service Disruption,Medium
+569,21,Phishing,2023-02-16,Exploit Kit,Financial Loss,Medium
+570,44,Phishing,2022-12-30,Compromised Credentials,Data Breach,Low
+571,35,DDoS,2023-07-01,Email,Service Disruption,High
+572,43,DDoS,2022-04-15,Exploit Kit,Data Breach,Low
+573,9,DDoS,2023-10-23,Compromised Credentials,Service Disruption,High
+574,27,Phishing,2023-04-17,Email,Service Disruption,Medium
+575,13,DDoS,2022-06-18,Email,Financial Loss,Low
+576,26,Phishing,2022-03-15,Exploit Kit,Financial Loss,High
+577,14,DDoS,2023-12-31,Email,Service Disruption,High
+578,59,DDoS,2022-09-13,Email,Service Disruption,Low
+579,43,Phishing,2023-02-13,Compromised Credentials,Service Disruption,High
+580,7,DDoS,2022-11-01,Email,Service Disruption,Medium
+581,1,Phishing,2023-05-03,Exploit Kit,Financial Loss,High
+582,28,Phishing,2022-11-04,Compromised Credentials,Data Breach,High
+583,73,DDoS,2023-10-24,Compromised Credentials,Service Disruption,Low
+584,96,DDoS,2022-02-26,Exploit Kit,Service Disruption,High
+585,10,DDoS,2023-06-25,Exploit Kit,Financial Loss,Medium
+586,26,Phishing,2022-09-24,Compromised Credentials,Service Disruption,Medium
+587,60,DDoS,2022-05-02,Exploit Kit,Financial Loss,Low
+588,18,DDoS,2022-05-29,Compromised Credentials,Financial Loss,High
+589,71,DDoS,2023-06-05,Email,Financial Loss,High
+590,23,Malware,2023-04-01,Compromised Credentials,Financial Loss,High
+591,60,Phishing,2022-11-26,Compromised Credentials,Financial Loss,Medium
+592,72,DDoS,2022-05-03,Compromised Credentials,Data Breach,High
+593,33,Phishing,2022-06-23,Compromised Credentials,Data Breach,High
+594,35,DDoS,2022-07-30,Compromised Credentials,Service Disruption,Low
+595,19,DDoS,2023-07-20,Exploit Kit,Financial Loss,Medium
+596,82,Malware,2023-10-15,Exploit Kit,Data Breach,Medium
+597,70,Phishing,2022-10-27,Exploit Kit,Service Disruption,Low
+598,7,Phishing,2022-04-09,Email,Data Breach,High
+599,8,DDoS,2022-04-12,Compromised Credentials,Service Disruption,High
+600,22,Phishing,2023-01-28,Email,Service Disruption,Low
+601,65,Malware,2022-07-06,Exploit Kit,Financial Loss,Low
+602,6,DDoS,2022-07-11,Compromised Credentials,Service Disruption,Low
+603,33,Phishing,2022-09-13,Email,Service Disruption,Low
+604,23,DDoS,2022-04-26,Email,Data Breach,Low
+605,31,Malware,2024-01-01,Compromised Credentials,Data Breach,Low
+606,11,DDoS,2023-08-31,Exploit Kit,Service Disruption,Low
+607,28,DDoS,2022-10-12,Exploit Kit,Data Breach,High
+608,96,Phishing,2023-12-05,Exploit Kit,Service Disruption,Medium
+609,88,Phishing,2023-01-30,Exploit Kit,Financial Loss,Low
+610,64,DDoS,2022-07-04,Compromised Credentials,Data Breach,Low
+611,7,DDoS,2022-05-25,Email,Service Disruption,High
+612,14,DDoS,2022-03-30,Exploit Kit,Data Breach,Medium
+613,14,Malware,2024-01-10,Email,Financial Loss,Medium
+614,16,Phishing,2023-11-09,Exploit Kit,Service Disruption,Medium
+615,3,DDoS,2023-01-23,Exploit Kit,Data Breach,Medium
+616,93,Phishing,2023-10-03,Compromised Credentials,Financial Loss,Low
+617,51,Malware,2023-12-18,Exploit Kit,Service Disruption,Medium
+618,72,DDoS,2022-05-19,Email,Data Breach,High
+619,17,Malware,2023-08-24,Compromised Credentials,Data Breach,Low
+620,47,Phishing,2023-01-18,Compromised Credentials,Data Breach,High
+621,71,Phishing,2023-12-14,Compromised Credentials,Financial Loss,Medium
+622,18,DDoS,2023-02-10,Email,Service Disruption,High
+623,44,Phishing,2023-09-26,Email,Service Disruption,Medium
+624,1,DDoS,2022-03-02,Compromised Credentials,Financial Loss,Low
+625,54,DDoS,2023-05-06,Exploit Kit,Data Breach,Medium
+626,74,Phishing,2023-07-14,Email,Service Disruption,High
+627,4,Malware,2023-12-18,Email,Financial Loss,Medium
+628,83,Phishing,2023-01-01,Compromised Credentials,Data Breach,Medium
+629,18,DDoS,2022-09-08,Compromised Credentials,Service Disruption,Medium
+630,50,Malware,2023-09-19,Exploit Kit,Data Breach,High
+631,23,Malware,2022-06-21,Exploit Kit,Financial Loss,Low
+632,18,Malware,2023-04-18,Exploit Kit,Service Disruption,Low
+633,93,Malware,2022-04-16,Exploit Kit,Service Disruption,Medium
+634,93,DDoS,2023-02-28,Compromised Credentials,Service Disruption,Low
+635,13,Phishing,2022-06-10,Exploit Kit,Data Breach,High
+636,31,Malware,2022-09-23,Compromised Credentials,Service Disruption,Low
+637,38,Malware,2022-10-04,Email,Financial Loss,Medium
+638,48,Malware,2023-01-02,Email,Service Disruption,High
+639,30,DDoS,2023-02-09,Exploit Kit,Service Disruption,Low
+640,91,Malware,2022-07-07,Email,Financial Loss,High
+641,57,Malware,2023-08-17,Compromised Credentials,Data Breach,Low
+642,4,Phishing,2023-12-11,Exploit Kit,Financial Loss,Low
+643,10,Phishing,2023-09-23,Exploit Kit,Financial Loss,High
+644,3,DDoS,2023-01-27,Exploit Kit,Service Disruption,High
+645,78,Malware,2023-11-29,Exploit Kit,Financial Loss,High
+646,87,Malware,2022-06-23,Exploit Kit,Financial Loss,High
+647,40,Malware,2022-12-23,Exploit Kit,Data Breach,High
+648,100,Phishing,2023-09-19,Exploit Kit,Data Breach,Low
+649,66,DDoS,2022-09-14,Compromised Credentials,Data Breach,Low
+650,93,Phishing,2023-06-16,Compromised Credentials,Service Disruption,Medium
+651,47,Malware,2022-03-08,Email,Service Disruption,Low
+652,79,Phishing,2024-01-26,Compromised Credentials,Data Breach,High
+653,47,DDoS,2022-10-26,Email,Financial Loss,Low
+654,72,DDoS,2023-10-30,Exploit Kit,Service Disruption,High
+655,65,DDoS,2023-11-18,Exploit Kit,Service Disruption,High
+656,32,Malware,2022-04-30,Exploit Kit,Financial Loss,Low
+657,94,DDoS,2023-05-31,Exploit Kit,Data Breach,Medium
+658,46,DDoS,2023-01-04,Email,Data Breach,High
+659,95,Malware,2023-07-24,Email,Service Disruption,High
+660,74,Phishing,2022-05-22,Compromised Credentials,Data Breach,High
+661,22,Malware,2022-10-09,Exploit Kit,Service Disruption,Low
+662,5,Phishing,2022-07-29,Compromised Credentials,Financial Loss,Low
+663,53,DDoS,2023-02-13,Email,Financial Loss,Low
+664,68,DDoS,2022-04-10,Exploit Kit,Service Disruption,High
+665,83,Phishing,2022-05-07,Email,Service Disruption,Low
+666,61,Malware,2022-03-07,Email,Financial Loss,Medium
+667,21,Malware,2023-04-27,Exploit Kit,Financial Loss,High
+668,67,Malware,2023-12-15,Exploit Kit,Financial Loss,Medium
+669,45,Malware,2023-09-15,Email,Data Breach,High
+670,60,Malware,2022-07-20,Email,Financial Loss,Low
+671,8,Malware,2022-07-10,Compromised Credentials,Service Disruption,Low
+672,92,Malware,2022-03-15,Email,Service Disruption,Medium
+673,6,DDoS,2022-12-14,Exploit Kit,Financial Loss,Low
+674,59,Malware,2022-06-17,Exploit Kit,Financial Loss,Low
+675,68,DDoS,2023-04-24,Email,Service Disruption,Medium
+676,96,Malware,2022-12-19,Email,Service Disruption,Low
+677,17,DDoS,2023-10-24,Compromised Credentials,Data Breach,Medium
+678,9,Phishing,2024-01-09,Exploit Kit,Data Breach,Medium
+679,96,Phishing,2023-11-22,Email,Service Disruption,High
+680,11,Phishing,2023-09-12,Compromised Credentials,Data Breach,High
+681,65,DDoS,2022-08-08,Exploit Kit,Data Breach,Medium
+682,7,DDoS,2022-09-29,Compromised Credentials,Service Disruption,Low
+683,86,Phishing,2023-01-13,Exploit Kit,Financial Loss,Medium
+684,63,DDoS,2022-08-14,Exploit Kit,Financial Loss,High
+685,14,Phishing,2023-05-26,Exploit Kit,Data Breach,Medium
+686,5,Phishing,2023-04-10,Email,Service Disruption,Medium
+687,12,Malware,2023-09-28,Compromised Credentials,Data Breach,Medium
+688,26,Phishing,2023-11-04,Exploit Kit,Financial Loss,Low
+689,24,Phishing,2022-06-10,Exploit Kit,Service Disruption,Low
+690,14,Malware,2022-03-07,Compromised Credentials,Data Breach,High
+691,79,Phishing,2022-04-07,Exploit Kit,Service Disruption,Medium
+692,71,DDoS,2024-02-03,Exploit Kit,Financial Loss,High
+693,10,Phishing,2023-08-08,Compromised Credentials,Service Disruption,Medium
+694,97,DDoS,2023-08-15,Email,Service Disruption,Medium
+695,38,DDoS,2022-07-30,Exploit Kit,Financial Loss,Medium
+696,36,Malware,2023-09-15,Compromised Credentials,Financial Loss,Low
+697,84,Malware,2023-05-22,Email,Service Disruption,Low
+698,6,Malware,2022-08-12,Email,Financial Loss,Medium
+699,78,Malware,2023-05-24,Compromised Credentials,Service Disruption,Medium
+700,1,Malware,2023-06-06,Exploit Kit,Data Breach,Medium
+701,83,DDoS,2023-10-19,Email,Service Disruption,Medium
+702,29,Phishing,2022-03-11,Compromised Credentials,Data Breach,Low
+703,58,Phishing,2023-01-10,Exploit Kit,Service Disruption,High
+704,45,DDoS,2023-10-12,Exploit Kit,Financial Loss,Medium
+705,82,DDoS,2022-08-15,Compromised Credentials,Service Disruption,Medium
+706,42,DDoS,2023-12-25,Exploit Kit,Financial Loss,Low
+707,33,Malware,2023-06-29,Email,Data Breach,High
+708,41,Phishing,2023-04-25,Exploit Kit,Service Disruption,Medium
+709,30,Malware,2022-05-31,Compromised Credentials,Data Breach,Low
+710,43,Malware,2023-06-04,Exploit Kit,Service Disruption,Medium
+711,45,Malware,2023-09-28,Email,Service Disruption,Medium
+712,81,DDoS,2023-02-02,Email,Financial Loss,High
+713,96,DDoS,2023-03-02,Email,Financial Loss,Low
+714,2,Phishing,2023-02-14,Email,Financial Loss,Medium
+715,87,DDoS,2023-02-24,Compromised Credentials,Data Breach,High
+716,33,Malware,2022-06-03,Email,Financial Loss,High
+717,53,Malware,2022-08-05,Compromised Credentials,Service Disruption,Low
+718,93,Malware,2023-08-22,Email,Service Disruption,Medium
+719,80,Malware,2024-01-28,Email,Financial Loss,Medium
+720,78,Malware,2022-12-17,Compromised Credentials,Data Breach,High
+721,44,DDoS,2023-03-22,Email,Service Disruption,Low
+722,55,Malware,2022-03-24,Exploit Kit,Financial Loss,Low
+723,36,DDoS,2022-04-03,Exploit Kit,Service Disruption,High
+724,69,Malware,2022-04-17,Compromised Credentials,Financial Loss,Medium
+725,76,Malware,2022-03-18,Exploit Kit,Financial Loss,Low
+726,24,Malware,2023-11-27,Email,Service Disruption,Medium
+727,56,Phishing,2022-02-19,Email,Service Disruption,Low
+728,51,Phishing,2023-09-01,Exploit Kit,Financial Loss,Medium
+729,16,Phishing,2022-11-24,Exploit Kit,Financial Loss,High
+730,20,DDoS,2024-01-13,Exploit Kit,Financial Loss,Medium
+731,67,Phishing,2023-06-07,Exploit Kit,Financial Loss,High
+732,99,Malware,2022-03-26,Exploit Kit,Financial Loss,Low
+733,45,DDoS,2023-02-15,Email,Data Breach,High
+734,47,Malware,2023-05-18,Email,Service Disruption,Medium
+735,73,Malware,2022-03-07,Exploit Kit,Data Breach,Low
+736,15,Phishing,2023-05-03,Compromised Credentials,Financial Loss,High
+737,48,DDoS,2024-02-09,Email,Financial Loss,High
+738,45,Malware,2022-02-27,Exploit Kit,Data Breach,Low
+739,64,DDoS,2022-09-18,Compromised Credentials,Financial Loss,Low
+740,89,Phishing,2023-06-24,Email,Service Disruption,High
+741,96,Phishing,2023-12-16,Exploit Kit,Data Breach,High
+742,95,Phishing,2022-07-09,Email,Data Breach,High
+743,28,Malware,2023-04-12,Exploit Kit,Data Breach,Medium
+744,10,Malware,2023-05-07,Compromised Credentials,Financial Loss,Low
+745,1,DDoS,2024-02-07,Exploit Kit,Service Disruption,Medium
+746,91,DDoS,2023-03-03,Exploit Kit,Data Breach,High
+747,58,Phishing,2022-10-19,Compromised Credentials,Service Disruption,High
+748,85,Phishing,2022-04-12,Compromised Credentials,Service Disruption,High
+749,93,DDoS,2022-10-27,Exploit Kit,Financial Loss,Low
+750,67,DDoS,2022-11-03,Compromised Credentials,Data Breach,Medium
+751,93,DDoS,2023-03-10,Email,Data Breach,Medium
+752,23,Phishing,2023-03-19,Email,Financial Loss,Low
+753,61,Malware,2024-01-04,Compromised Credentials,Financial Loss,Low
+754,13,DDoS,2023-06-02,Exploit Kit,Data Breach,Medium
+755,30,Phishing,2023-05-19,Compromised Credentials,Service Disruption,Low
+756,2,Phishing,2023-11-15,Compromised Credentials,Service Disruption,High
+757,36,Phishing,2023-01-29,Exploit Kit,Financial Loss,High
+758,88,Malware,2023-01-04,Email,Service Disruption,Low
+759,46,Phishing,2023-09-01,Compromised Credentials,Service Disruption,Medium
+760,89,Phishing,2022-03-08,Email,Data Breach,Low
+761,91,DDoS,2023-06-25,Email,Service Disruption,Medium
+762,58,Malware,2023-07-05,Exploit Kit,Service Disruption,Medium
+763,9,DDoS,2024-02-12,Exploit Kit,Financial Loss,Medium
+764,24,Phishing,2022-10-12,Exploit Kit,Financial Loss,High
+765,79,Phishing,2022-09-23,Compromised Credentials,Data Breach,Medium
+766,79,Phishing,2022-06-23,Email,Service Disruption,Low
+767,26,Malware,2022-10-04,Compromised Credentials,Data Breach,High
+768,71,DDoS,2022-04-14,Exploit Kit,Data Breach,Medium
+769,44,Phishing,2022-07-19,Exploit Kit,Data Breach,Medium
+770,75,Phishing,2022-06-20,Email,Data Breach,Low
+771,14,Phishing,2022-07-17,Email,Data Breach,High
+772,47,Phishing,2023-08-10,Compromised Credentials,Service Disruption,High
+773,54,DDoS,2022-06-25,Exploit Kit,Financial Loss,Medium
+774,24,DDoS,2022-09-01,Compromised Credentials,Data Breach,Low
+775,100,Malware,2022-06-05,Compromised Credentials,Service Disruption,Medium
+776,27,Phishing,2022-02-26,Compromised Credentials,Service Disruption,Medium
+777,85,DDoS,2023-12-12,Compromised Credentials,Service Disruption,Low
+778,25,DDoS,2022-02-22,Compromised Credentials,Data Breach,Low
+779,97,Phishing,2023-12-12,Exploit Kit,Financial Loss,Low
+780,71,Malware,2022-11-16,Email,Data Breach,Medium
+781,35,Malware,2022-08-26,Compromised Credentials,Service Disruption,High
+782,13,DDoS,2023-03-06,Email,Data Breach,Medium
+783,42,DDoS,2022-07-24,Email,Financial Loss,High
+784,10,DDoS,2022-08-21,Exploit Kit,Financial Loss,Medium
+785,89,Phishing,2022-02-20,Compromised Credentials,Data Breach,Medium
+786,81,DDoS,2024-01-22,Compromised Credentials,Data Breach,Low
+787,29,DDoS,2023-09-12,Email,Financial Loss,High
+788,1,Malware,2022-05-27,Compromised Credentials,Data Breach,Medium
+789,39,DDoS,2023-03-19,Compromised Credentials,Data Breach,High
+790,2,DDoS,2022-10-14,Compromised Credentials,Data Breach,Low
+791,40,Malware,2022-05-20,Compromised Credentials,Financial Loss,High
+792,58,DDoS,2023-04-05,Email,Service Disruption,Low
+793,60,Phishing,2023-12-29,Email,Data Breach,Medium
+794,90,Phishing,2022-12-21,Compromised Credentials,Financial Loss,High
+795,86,Phishing,2022-12-24,Compromised Credentials,Service Disruption,High
+796,51,Phishing,2022-12-27,Exploit Kit,Service Disruption,Medium
+797,77,DDoS,2023-08-18,Email,Data Breach,High
+798,58,DDoS,2022-04-08,Exploit Kit,Service Disruption,High
+799,58,DDoS,2023-05-29,Email,Financial Loss,High
+800,25,DDoS,2023-03-23,Compromised Credentials,Financial Loss,Low
+801,77,Phishing,2022-07-15,Compromised Credentials,Service Disruption,Medium
+802,43,Malware,2023-04-13,Email,Data Breach,Low
+803,14,Malware,2022-06-06,Compromised Credentials,Financial Loss,Medium
+804,70,Phishing,2023-06-30,Compromised Credentials,Service Disruption,High
+805,49,DDoS,2024-01-29,Exploit Kit,Service Disruption,Medium
+806,46,Phishing,2023-12-11,Email,Financial Loss,High
+807,87,DDoS,2023-08-30,Exploit Kit,Service Disruption,High
+808,87,DDoS,2022-11-08,Exploit Kit,Financial Loss,Low
+809,40,Malware,2022-03-31,Email,Financial Loss,Low
+810,49,DDoS,2023-03-19,Exploit Kit,Service Disruption,Low
+811,32,DDoS,2022-04-26,Compromised Credentials,Service Disruption,Low
+812,69,DDoS,2022-09-13,Exploit Kit,Data Breach,Medium
+813,1,Phishing,2022-06-04,Compromised Credentials,Service Disruption,High
+814,40,Malware,2022-06-25,Exploit Kit,Service Disruption,High
+815,12,DDoS,2023-03-16,Exploit Kit,Financial Loss,Medium
+816,23,Malware,2023-01-30,Compromised Credentials,Financial Loss,High
+817,90,DDoS,2022-07-29,Exploit Kit,Financial Loss,Medium
+818,54,DDoS,2023-06-18,Compromised Credentials,Financial Loss,Medium
+819,22,Malware,2023-09-10,Compromised Credentials,Data Breach,Medium
+820,41,Malware,2023-10-06,Compromised Credentials,Service Disruption,Low
+821,80,DDoS,2023-11-13,Exploit Kit,Data Breach,Low
+822,54,DDoS,2023-03-10,Compromised Credentials,Service Disruption,High
+823,88,Phishing,2023-02-12,Email,Financial Loss,Medium
+824,33,DDoS,2022-03-04,Compromised Credentials,Data Breach,Low
+825,21,DDoS,2022-12-23,Email,Service Disruption,High
+826,68,DDoS,2022-04-28,Compromised Credentials,Financial Loss,High
+827,13,Phishing,2023-09-23,Compromised Credentials,Service Disruption,Low
+828,69,Phishing,2022-05-16,Email,Data Breach,Low
+829,92,Malware,2022-07-13,Compromised Credentials,Service Disruption,Low
+830,32,DDoS,2023-01-10,Compromised Credentials,Financial Loss,High
+831,48,DDoS,2022-04-06,Exploit Kit,Financial Loss,Medium
+832,24,DDoS,2022-06-12,Email,Data Breach,Low
+833,26,Malware,2022-05-04,Email,Service Disruption,Low
+834,74,Malware,2023-10-09,Compromised Credentials,Financial Loss,Low
+835,8,Malware,2023-07-19,Compromised Credentials,Financial Loss,High
+836,42,DDoS,2023-03-28,Compromised Credentials,Financial Loss,Low
+837,45,Malware,2022-09-08,Exploit Kit,Data Breach,High
+838,38,Malware,2022-04-02,Exploit Kit,Service Disruption,High
+839,93,Phishing,2023-04-02,Compromised Credentials,Data Breach,Medium
+840,34,Phishing,2023-01-11,Email,Service Disruption,Medium
+841,86,Malware,2022-03-30,Compromised Credentials,Financial Loss,Low
+842,27,Phishing,2023-11-03,Compromised Credentials,Service Disruption,Medium
+843,15,Malware,2023-03-30,Exploit Kit,Service Disruption,Low
+844,61,Phishing,2022-07-02,Exploit Kit,Financial Loss,Low
+845,63,Malware,2023-06-23,Compromised Credentials,Financial Loss,Medium
+846,63,Malware,2022-11-12,Email,Data Breach,Low
+847,64,Malware,2022-06-10,Compromised Credentials,Data Breach,Medium
+848,55,DDoS,2022-05-22,Exploit Kit,Financial Loss,Medium
+849,1,Malware,2023-05-31,Exploit Kit,Service Disruption,Medium
+850,25,Phishing,2024-01-30,Email,Data Breach,High
+851,36,Malware,2023-12-23,Compromised Credentials,Data Breach,High
+852,44,DDoS,2022-11-16,Compromised Credentials,Data Breach,High
+853,47,DDoS,2022-11-21,Exploit Kit,Financial Loss,Low
+854,44,Malware,2022-11-11,Email,Service Disruption,Medium
+855,21,Malware,2022-05-06,Compromised Credentials,Service Disruption,High
+856,39,DDoS,2022-10-18,Compromised Credentials,Financial Loss,Low
+857,31,Malware,2022-09-24,Email,Financial Loss,Medium
+858,20,DDoS,2023-03-30,Exploit Kit,Financial Loss,High
+859,19,DDoS,2023-03-20,Compromised Credentials,Data Breach,Medium
+860,4,Phishing,2022-12-12,Email,Service Disruption,Medium
+861,30,DDoS,2023-04-08,Email,Service Disruption,High
+862,34,Phishing,2022-06-28,Compromised Credentials,Financial Loss,Low
+863,83,Malware,2022-04-12,Email,Data Breach,High
+864,12,Malware,2023-01-24,Compromised Credentials,Financial Loss,Low
+865,20,Malware,2023-10-18,Compromised Credentials,Financial Loss,Medium
+866,21,Malware,2022-11-20,Email,Financial Loss,Low
+867,20,Phishing,2022-08-25,Exploit Kit,Financial Loss,Low
+868,11,Phishing,2023-01-05,Compromised Credentials,Service Disruption,Low
+869,27,Malware,2022-07-12,Compromised Credentials,Data Breach,Medium
+870,85,Malware,2022-11-04,Exploit Kit,Service Disruption,Medium
+871,46,DDoS,2023-07-14,Email,Data Breach,Low
+872,45,Malware,2022-12-29,Exploit Kit,Service Disruption,Low
+873,49,Malware,2023-12-20,Compromised Credentials,Service Disruption,Low
+874,42,Malware,2023-09-01,Compromised Credentials,Data Breach,High
+875,59,DDoS,2022-04-08,Exploit Kit,Data Breach,Medium
+876,1,Malware,2022-09-11,Compromised Credentials,Financial Loss,Medium
+877,89,Malware,2022-06-27,Exploit Kit,Data Breach,Medium
+878,9,Phishing,2023-11-26,Email,Service Disruption,High
+879,67,Malware,2023-01-17,Email,Financial Loss,High
+880,92,Malware,2024-02-11,Email,Data Breach,High
+881,56,DDoS,2022-11-21,Exploit Kit,Service Disruption,Medium
+882,27,Phishing,2023-11-18,Exploit Kit,Service Disruption,Medium
+883,33,Phishing,2023-11-11,Compromised Credentials,Data Breach,High
+884,94,Malware,2022-11-12,Email,Financial Loss,Medium
+885,3,Malware,2022-03-24,Compromised Credentials,Data Breach,High
+886,72,DDoS,2023-07-04,Compromised Credentials,Financial Loss,Medium
+887,61,DDoS,2022-06-09,Exploit Kit,Data Breach,High
+888,50,Malware,2022-08-22,Compromised Credentials,Service Disruption,Medium
+889,37,Malware,2022-04-09,Exploit Kit,Data Breach,Low
+890,86,DDoS,2022-03-28,Email,Financial Loss,Low
+891,45,Phishing,2022-12-26,Exploit Kit,Financial Loss,Low
+892,49,DDoS,2023-05-11,Exploit Kit,Data Breach,Low
+893,63,DDoS,2022-07-24,Exploit Kit,Service Disruption,Medium
+894,96,Phishing,2022-07-19,Compromised Credentials,Financial Loss,Low
+895,42,Phishing,2023-09-07,Exploit Kit,Financial Loss,High
+896,95,Phishing,2023-04-20,Email,Data Breach,High
+897,47,DDoS,2023-06-24,Email,Financial Loss,High
+898,47,DDoS,2023-06-16,Email,Data Breach,Medium
+899,83,Malware,2024-02-18,Email,Data Breach,Medium
+900,48,DDoS,2024-01-25,Email,Financial Loss,High
+901,89,Phishing,2023-04-13,Exploit Kit,Service Disruption,Low
+902,99,DDoS,2022-07-10,Exploit Kit,Data Breach,Low
+903,7,Phishing,2023-11-30,Compromised Credentials,Service Disruption,Medium
+904,24,Malware,2022-07-22,Email,Financial Loss,High
+905,17,DDoS,2022-09-11,Exploit Kit,Data Breach,Low
+906,41,DDoS,2023-07-09,Exploit Kit,Service Disruption,High
+907,54,DDoS,2023-12-15,Exploit Kit,Financial Loss,Medium
+908,35,Malware,2022-07-28,Exploit Kit,Data Breach,Medium
+909,16,Phishing,2023-07-16,Email,Service Disruption,Low
+910,86,Phishing,2023-06-11,Compromised Credentials,Service Disruption,Low
+911,6,Phishing,2022-09-25,Email,Data Breach,High
+912,60,Phishing,2023-09-15,Compromised Credentials,Data Breach,Medium
+913,98,Phishing,2023-05-18,Compromised Credentials,Service Disruption,Low
+914,75,Malware,2023-04-06,Compromised Credentials,Financial Loss,High
+915,68,Phishing,2023-02-25,Compromised Credentials,Financial Loss,Low
+916,60,Malware,2022-04-23,Compromised Credentials,Financial Loss,Medium
+917,8,Malware,2024-01-24,Compromised Credentials,Data Breach,High
+918,87,DDoS,2024-01-08,Compromised Credentials,Financial Loss,Low
+919,64,DDoS,2023-10-24,Exploit Kit,Data Breach,Low
+920,34,DDoS,2022-03-26,Compromised Credentials,Service Disruption,Medium
+921,55,Malware,2022-05-02,Email,Financial Loss,Medium
+922,94,Phishing,2022-06-06,Email,Data Breach,Low
+923,74,Malware,2023-05-21,Exploit Kit,Data Breach,High
+924,10,Malware,2023-06-01,Compromised Credentials,Financial Loss,Low
+925,76,Malware,2022-09-10,Exploit Kit,Service Disruption,Low
+926,27,Phishing,2023-12-22,Email,Financial Loss,Low
+927,27,DDoS,2022-04-17,Exploit Kit,Service Disruption,Low
+928,76,Malware,2023-08-08,Exploit Kit,Service Disruption,High
+929,21,Malware,2023-10-06,Compromised Credentials,Service Disruption,Medium
+930,61,DDoS,2022-03-19,Compromised Credentials,Service Disruption,Low
+931,5,DDoS,2022-05-10,Compromised Credentials,Data Breach,Medium
+932,84,DDoS,2023-05-16,Email,Data Breach,Medium
+933,90,DDoS,2023-03-12,Exploit Kit,Service Disruption,Medium
+934,51,Phishing,2023-02-10,Compromised Credentials,Financial Loss,High
+935,67,Malware,2022-05-31,Email,Financial Loss,Medium
+936,63,Malware,2022-09-04,Compromised Credentials,Financial Loss,Medium
+937,15,Malware,2022-09-11,Compromised Credentials,Service Disruption,Medium
+938,33,Malware,2023-02-07,Exploit Kit,Service Disruption,Low
+939,7,Phishing,2022-11-22,Email,Financial Loss,Low
+940,91,Malware,2023-02-24,Compromised Credentials,Data Breach,High
+941,46,Malware,2022-12-31,Email,Financial Loss,Low
+942,70,Malware,2023-03-06,Email,Financial Loss,Medium
+943,37,DDoS,2023-10-13,Compromised Credentials,Service Disruption,Medium
+944,6,Malware,2023-03-08,Exploit Kit,Data Breach,Low
+945,30,DDoS,2023-01-14,Exploit Kit,Data Breach,High
+946,12,Phishing,2024-01-15,Email,Financial Loss,High
+947,14,DDoS,2022-09-30,Email,Financial Loss,High
+948,77,DDoS,2022-04-14,Email,Financial Loss,Medium
+949,42,Malware,2022-03-11,Exploit Kit,Data Breach,Low
+950,78,Phishing,2023-05-15,Exploit Kit,Financial Loss,Medium
+951,44,Phishing,2022-06-21,Exploit Kit,Service Disruption,High
+952,4,Phishing,2022-12-22,Compromised Credentials,Data Breach,High
+953,57,DDoS,2023-02-01,Compromised Credentials,Service Disruption,High
+954,55,Phishing,2022-08-04,Email,Service Disruption,Low
+955,23,Malware,2022-09-26,Email,Data Breach,High
+956,63,Malware,2023-03-09,Exploit Kit,Service Disruption,Medium
+957,20,DDoS,2023-12-05,Exploit Kit,Data Breach,Low
+958,100,DDoS,2023-04-29,Compromised Credentials,Data Breach,Low
+959,30,Malware,2023-04-03,Compromised Credentials,Data Breach,Medium
+960,38,Malware,2024-02-15,Exploit Kit,Data Breach,Low
+961,46,DDoS,2023-10-31,Compromised Credentials,Data Breach,High
+962,35,Malware,2023-01-04,Email,Service Disruption,Low
+963,59,Malware,2022-05-26,Email,Financial Loss,High
+964,26,Phishing,2022-06-03,Exploit Kit,Data Breach,Medium
+965,23,DDoS,2022-05-08,Exploit Kit,Data Breach,Medium
+966,87,Malware,2023-02-03,Email,Data Breach,Low
+967,93,Phishing,2023-08-19,Compromised Credentials,Service Disruption,High
+968,47,Phishing,2023-05-07,Email,Service Disruption,Medium
+969,7,Phishing,2024-01-17,Email,Financial Loss,Low
+970,71,Malware,2022-10-17,Email,Data Breach,High
+971,79,Phishing,2023-02-18,Exploit Kit,Service Disruption,Low
+972,10,Malware,2023-06-13,Exploit Kit,Data Breach,Low
+973,66,Phishing,2023-08-29,Email,Data Breach,Low
+974,84,DDoS,2023-01-17,Exploit Kit,Financial Loss,Low
+975,30,Phishing,2022-04-03,Exploit Kit,Financial Loss,Medium
+976,30,Phishing,2023-01-10,Exploit Kit,Financial Loss,Medium
+977,81,Phishing,2023-03-06,Exploit Kit,Data Breach,Medium
+978,56,DDoS,2023-09-23,Compromised Credentials,Service Disruption,Medium
+979,54,Malware,2022-10-05,Exploit Kit,Service Disruption,Low
+980,92,Phishing,2023-05-01,Email,Financial Loss,High
+981,33,DDoS,2022-10-13,Compromised Credentials,Financial Loss,High
+982,64,Phishing,2023-11-06,Email,Service Disruption,Low
+983,16,Phishing,2023-07-09,Compromised Credentials,Data Breach,Medium
+984,99,Phishing,2022-03-24,Compromised Credentials,Service Disruption,Low
+985,88,Malware,2022-06-07,Email,Financial Loss,High
+986,14,Phishing,2023-12-12,Email,Data Breach,Low
+987,97,DDoS,2022-06-25,Email,Financial Loss,High
+988,17,DDoS,2023-06-10,Exploit Kit,Data Breach,Medium
+989,87,Malware,2022-08-14,Email,Service Disruption,Low
+990,40,Phishing,2023-07-25,Exploit Kit,Service Disruption,High
+991,49,Malware,2023-03-28,Compromised Credentials,Financial Loss,High
+992,86,Phishing,2023-03-09,Email,Service Disruption,Medium
+993,28,Phishing,2023-11-11,Exploit Kit,Service Disruption,Medium
+994,76,Malware,2023-09-18,Compromised Credentials,Financial Loss,Medium
+995,70,DDoS,2023-12-02,Email,Service Disruption,High
+996,92,Malware,2022-06-13,Email,Data Breach,High
+997,74,Phishing,2022-03-29,Email,Service Disruption,Medium
+998,75,Malware,2022-11-15,Email,Data Breach,Medium
+999,68,DDoS,2022-04-11,Compromised Credentials,Data Breach,Medium
+1000,68,Phishing,2022-06-25,Compromised Credentials,Data Breach,Low
